@@ -1,0 +1,74 @@
+1. Convert to all caps
+String phrase = user input
+If 
+string is lowercase, convert string to uppercase
+If 
+user enters integer, send string "try again"
+go back to waiting for input
+print phrase
+
+
+2. have user input 2 numbers, add then print
+x = user input
+y = user input
+
+add x + y = z
+  print z
+
+3. unknown numbers
+
+while (true)
+if 
+yes, input x
+print 
+else
+print total
+break loop
+
+add all inputs = total
+
+if 
+string or char, 
+print "error, try again"
+
+
+4. max number generator
+ max (int) = 100
+print "welcome to the random number generator"
+print "enter a number and try to guess it right"
+
+guess (int) = user input
+random = win  (random number generated 0 - 100)
+
+if 
+guess = win
+print "you got it!"
+else
+print "try again"
+
+if 
+integer exceeds 100 or is less than 0
+print "number is too high or low, try again)
+
+if 
+string or char is inputed
+print "Error, cannot input words, try again"
+
+5. random number gen, even print right, odd print left
+
+random (int) = num
+
+while
+  if num is % 2
+  print "right"
+  else if num is % 3
+  print "left"
+
+  if 
+  num = 0
+
+
+
+
+  
+  
